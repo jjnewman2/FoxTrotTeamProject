@@ -16,5 +16,10 @@ namespace FoxTrotTeamProject
         {
             InitializeComponent();
         }
+
+        private void submitButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
